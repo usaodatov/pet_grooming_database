@@ -17,3 +17,12 @@ How to Use
 
 This project is for educational purposes only. Feel free to use it as a reference or modify it for your learning objectives.
 
+
+Entity Relationship Diagrams
+
+Conceptual Diagram
+![Conceptual Diagram](diagrams/Conceptual_Diagram.jpg)
+
+Logical Diagram
+![Logical Diagram](diagrams/Logical_Diagram.jpg)
+
