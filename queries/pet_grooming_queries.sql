@@ -10,10 +10,10 @@ SHOW CREATE TABLE appointment;
 -- Test Database Connection for 'saodatov_user' and 'tomas'
 -- Confirm that database connections work for both the primary user and a secondary user, checking the environment setup.
 -- Login as 'saodatov_user'
--- Use password 'Saodatov2025' (copy and paste during demonstration)
+-- Use password 'Saodatov2025'
 mysql -u saodatov_user -pSaodatov2025 -h localhost
 -- Login as 'tomas'
--- Use password 'test1234' (copy and paste during demonstration)
+-- Use password 'test1234' 
 mysql -u tomas -ptest1234 -h localhost
 
 -- Insert a New Client Record and a New Service Offering
